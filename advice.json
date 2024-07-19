@@ -1,0 +1,53 @@
+{
+    "weight_categories": [
+      {
+        "category": "Overweight",
+        "description": "Your BMI is 25 or above.",
+        "suggestions": [
+          "Adopt a balanced diet rich in fruits, vegetables, and whole grains.",
+          "Engage in regular physical activity such as walking, jogging, or swimming.",
+          "Avoid sugary drinks and snacks.",
+          "Monitor portion sizes to avoid overeating.",
+          "Incorporate strength training exercises to build muscle mass.",
+          "Stay hydrated by drinking plenty of water.",
+          "Limit the intake of processed foods and fast food.",
+          "Get adequate sleep to support metabolic health.",
+          "Consult a healthcare provider for personalized advice.",
+          "Consider joining a weight management program or support group."
+        ]
+      },
+      {
+        "category": "Normal",
+        "description": "Your BMI is between 18.5 and 24.9.",
+        "suggestions": [
+          "Maintain a balanced diet to sustain your current weight.",
+          "Continue regular physical activity to stay fit.",
+          "Get regular health check-ups to monitor your overall well-being.",
+          "Stay hydrated and manage stress effectively.",
+          "Incorporate a mix of aerobic and strength training exercises.",
+          "Practice mindful eating to maintain a healthy relationship with food.",
+          "Ensure adequate intake of essential nutrients like vitamins and minerals.",
+          "Avoid smoking and limit alcohol consumption.",
+          "Engage in activities that promote mental well-being, such as meditation or hobbies.",
+          "Monitor your weight regularly to detect any changes early."
+        ]
+      },
+      {
+        "category": "Underweight",
+        "description": "Your BMI is below 18.5.",
+        "suggestions": [
+          "Include nutrient-dense foods in your diet such as nuts, seeds, and lean proteins.",
+          "Eat small, frequent meals to increase calorie intake.",
+          "Consider strength training exercises to build muscle mass.",
+          "Incorporate healthy fats from sources like avocados, olive oil, and fatty fish.",
+          "Drink smoothies or shakes made with milk, yogurt, and fruit.",
+          "Avoid empty-calorie foods like sugary snacks and drinks.",
+          "Ensure adequate intake of vitamins and minerals through diet or supplements.",
+          "Get enough sleep to support muscle growth and overall health.",
+          "Consult a healthcare provider to rule out any underlying health conditions.",
+          "Work with a nutritionist to develop a personalized meal plan."
+        ]
+      }
+    ]
+  }
+  

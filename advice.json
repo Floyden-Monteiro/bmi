@@ -129,6 +129,214 @@
         "Get regular health check-ups to monitor your condition.",
         "Stay hydrated by drinking plenty of water."
       ]
+    },
+    {
+      "category": "Chronic Kidney Disease",
+      "description": "A condition characterized by a gradual loss of kidney function over time.",
+      "suggestions": [
+        "Monitor kidney function regularly through blood tests.",
+        "Adopt a kidney-friendly diet low in sodium, phosphorus, and protein.",
+        "Control blood pressure and blood sugar levels if you have hypertension or diabetes.",
+        "Avoid smoking and limit alcohol consumption.",
+        "Stay hydrated by drinking plenty of water.",
+        "Take prescribed medications as directed by your healthcare provider.",
+        "Engage in regular physical activity.",
+        "Avoid over-the-counter pain medications that can harm the kidneys.",
+        "Get regular health check-ups to monitor your condition.",
+        "Consult a nephrologist for personalized management advice."
+      ]
+    },
+    {
+      "category": "Chronic Obstructive Pulmonary Disease (COPD)",
+      "description": "A group of lung diseases that block airflow and make it difficult to breathe.",
+      "suggestions": [
+        "Avoid smoking and exposure to secondhand smoke.",
+        "Engage in pulmonary rehabilitation exercises.",
+        "Take prescribed medications as directed by your healthcare provider.",
+        "Use a humidifier to keep the air in your home moist.",
+        "Avoid lung irritants such as dust, chemicals, and pollution.",
+        "Stay hydrated by drinking plenty of water.",
+        "Practice breathing exercises to improve lung function.",
+        "Get regular flu and pneumonia vaccinations.",
+        "Maintain a healthy weight through a balanced diet.",
+        "Consult a pulmonologist for personalized management advice."
+      ]
+    },
+    {
+      "category": "Alzheimer's Disease",
+      "description": "A progressive disease that destroys memory and other important mental functions.",
+      "suggestions": [
+        "Engage in regular physical activity to promote brain health.",
+        "Adopt a heart-healthy diet rich in fruits, vegetables, and whole grains.",
+        "Stay mentally active through puzzles, reading, and learning new skills.",
+        "Maintain social connections to reduce isolation and depression.",
+        "Get regular health check-ups to monitor your condition.",
+        "Take prescribed medications as directed by your healthcare provider.",
+        "Create a safe and supportive living environment.",
+        "Use memory aids like calendars and notes.",
+        "Manage stress through relaxation techniques such as yoga or meditation.",
+        "Consult a neurologist for personalized management advice."
+      ]
+    },
+    {
+      "category": "Depression",
+      "description": "A mood disorder that causes persistent feelings of sadness and loss of interest.",
+      "suggestions": [
+        "Seek professional help from a therapist or counselor.",
+        "Take prescribed medications as directed by your healthcare provider.",
+        "Engage in regular physical activity to boost mood.",
+        "Maintain a balanced diet to support overall well-being.",
+        "Stay connected with friends and family for support.",
+        "Practice mindfulness and relaxation techniques such as meditation or yoga.",
+        "Establish a regular sleep routine to improve sleep quality.",
+        "Avoid alcohol and recreational drugs.",
+        "Set realistic goals and break tasks into smaller steps.",
+        "Consider joining a support group for people with depression."
+      ]
+    },
+    {
+      "category": "Cancer",
+      "description": "A disease in which abnormal cells divide uncontrollably and destroy body tissue.",
+      "suggestions": [
+        "Follow your healthcare provider's treatment plan.",
+        "Maintain a balanced diet to support your immune system.",
+        "Stay physically active as much as possible.",
+        "Avoid smoking and exposure to secondhand smoke.",
+        "Limit alcohol consumption.",
+        "Stay hydrated by drinking plenty of water.",
+        "Get enough rest and manage stress through relaxation techniques.",
+        "Seek emotional support from friends, family, or a support group.",
+        "Attend regular follow-up appointments to monitor your condition.",
+        "Consult an oncologist for personalized management advice."
+      ]
+    },
+    {
+      "category": "Gastroesophageal Reflux Disease (GERD)",
+      "description": "A chronic digestive condition where stomach acid or bile irritates the food pipe lining.",
+      "suggestions": [
+        "Avoid foods and drinks that trigger reflux, such as fatty foods, coffee, and alcohol.",
+        "Eat smaller, more frequent meals.",
+        "Avoid lying down immediately after eating.",
+        "Elevate the head of your bed to reduce nighttime symptoms.",
+        "Maintain a healthy weight.",
+        "Wear loose-fitting clothes to reduce pressure on your stomach.",
+        "Avoid smoking.",
+        "Take prescribed medications as directed by your healthcare provider.",
+        "Stay hydrated by drinking plenty of water.",
+        "Consult a gastroenterologist for personalized management advice."
+      ]
+    },
+    {
+      "category": "Osteoporosis",
+      "description": "A condition that weakens bones, making them fragile and more likely to break.",
+      "suggestions": [
+        "Engage in weight-bearing and muscle-strengthening exercises.",
+        "Ensure adequate intake of calcium and vitamin D.",
+        "Avoid smoking and limit alcohol consumption.",
+        "Maintain a healthy weight.",
+        "Take prescribed medications as directed by your healthcare provider.",
+        "Prevent falls by creating a safe home environment.",
+        "Get regular bone density tests to monitor your condition.",
+        "Include plenty of fruits and vegetables in your diet.",
+        "Stay active and maintain good posture.",
+        "Consult an endocrinologist for personalized management advice."
+      ]
+    },
+    {
+      "category": "Parkinson's Disease",
+      "description": "A progressive nervous system disorder that affects movement.",
+      "suggestions": [
+        "Engage in regular physical activity to improve mobility and balance.",
+        "Follow a balanced diet to maintain overall health.",
+        "Take prescribed medications as directed by your healthcare provider.",
+        "Practice exercises that enhance flexibility and strength.",
+        "Seek support from friends, family, or support groups.",
+        "Get regular check-ups to monitor your condition.",
+        "Stay mentally active through puzzles and reading.",
+        "Use adaptive devices to assist with daily activities.",
+        "Manage stress through relaxation techniques such as yoga or meditation.",
+        "Consult a neurologist for personalized management advice."
+      ]
+    },
+    {
+      "category": "Multiple Sclerosis (MS)",
+      "description": "A disease in which the immune system eats away at the protective covering of nerves.",
+      "suggestions": [
+        "Engage in regular physical activity to maintain strength and mobility.",
+        "Follow a balanced diet to support overall health.",
+        "Take prescribed medications as directed by your healthcare provider.",
+        "Practice stress management techniques.",
+        "Stay hydrated by drinking plenty of water.",
+        "Get regular health check-ups to monitor your condition.",
+        "Seek support from friends, family, or support groups.",
+        "Use adaptive devices to assist with daily activities.",
+        "Stay mentally active through puzzles and learning new skills.",
+        "Consult a neurologist for personalized management advice."
+      ]
+    },
+    {
+      "category": "Irritable Bowel Syndrome (IBS)",
+      "description": "A common disorder that affects the large intestine.",
+      "suggestions": [
+        "Identify and avoid foods that trigger your symptoms.",
+        "Eat smaller, more frequent meals.",
+        "Stay hydrated by drinking plenty of water.",
+        "Manage stress through relaxation techniques such as yoga or meditation.",
+        "Engage in regular physical activity.",
+        "Avoid caffeine and alcohol.",
+        "Consider probiotics to support gut health.",
+        "Keep a food diary to track symptoms and triggers.",
+        "Take prescribed medications as directed by your healthcare provider.",
+        "Consult a gastroenterologist for personalized management advice."
+      ]
+    },
+    {
+      "category": "Chronic Fatigue Syndrome (CFS)",
+      "description": "A complicated disorder characterized by extreme fatigue that can't be explained by any underlying medical condition.",
+      "suggestions": [
+        "Pace yourself and avoid overexertion.",
+        "Engage in gentle physical activity, as tolerated.",
+        "Follow a balanced diet to support overall health.",
+        "Get enough sleep and establish a regular sleep routine.",
+        "Manage stress through relaxation techniques such as yoga or meditation.",
+        "Stay hydrated by drinking plenty of water.",
+        "Seek support from friends, family, or support groups.",
+        "Avoid caffeine and alcohol.",
+        "Take prescribed medications as directed by your healthcare provider.",
+        "Consult a specialist for personalized management advice."
+      ]
+    },
+    {
+      "category": "Celiac Disease",
+      "description": "An immune reaction to eating gluten, a protein found in wheat, barley, and rye.",
+      "suggestions": [
+        "Adopt a strict gluten-free diet.",
+        "Read food labels carefully to avoid gluten.",
+        "Consult a dietitian for personalized meal planning.",
+        "Stay hydrated by drinking plenty of water.",
+        "Get regular health check-ups to monitor your condition.",
+        "Take prescribed medications or supplements as directed by your healthcare provider.",
+        "Avoid cross-contamination in your kitchen.",
+        "Seek support from friends, family, or support groups.",
+        "Include a variety of gluten-free grains in your diet.",
+        "Consult a gastroenterologist for personalized management advice."
+      ]
+    },
+    {
+      "category": "Others",
+      "description": "Various other conditions not specifically listed.",
+      "suggestions": [
+        "Adopt a healthy lifestyle to support overall well-being.",
+        "Stay physically active through regular exercise.",
+        "Maintain a balanced diet rich in essential nutrients.",
+        "Get regular health check-ups to monitor your condition.",
+        "Take prescribed medications as directed by your healthcare provider.",
+        "Stay hydrated by drinking plenty of water.",
+        "Avoid smoking and limit alcohol consumption.",
+        "Manage stress through relaxation techniques such as yoga or meditation.",
+        "Seek support from friends, family, or support groups.",
+        "Consult healthcare providers for personalized management advice."
+      ]
     }
   ]
 }
